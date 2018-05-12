@@ -1,10 +1,16 @@
 _repo: The-Misuse-of-Mind_6336
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Stephen, Karin
     gutenberg_agent_id: '2004'
     url: http://www.gutenberg.org/2009/agents/2004
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6336#The-Misuse-of-Mind
 gutenberg_issued: '2004-08-01'
 gutenberg_type: Text
 identifiers:
